@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>G4F - Café com Watsonx Orchestrate</title>
+</head>
+<body>
+  <script>
+    window.wxOConfiguration = {
+        orchestrationID: ""Preencha com as suas credenciais",
+        hostURL: "Preencha com o seu host URL",
+        deploymentPlatform: "ibmcloud",
+        crn: "Preencha com o seu CRN",
+        rootElementID: "root",
+        showLauncher: false,
+        defaultLanguage: "pt-BR", //Preencha com a linguagem do seu agente
+        chatOptions: {
+          agentId: "Preencha com o seu agentId",
+          agentEnvironmentId: "Preencha com o seu agentEnvironmentId"
+        },
+        layout: {
+          form: "fullscreen-overlay", // pode escolher entre 'float', 'custom'
+          showOrchestrateHeader: true,
+          width: "600px", // válido somente se form: 'float'
+          height: "600px"
+        },
+        style: {
+          headerColor: "#0052cc",
+          userMessageBackgroundColor: "#e0f7fa",
+          primaryColor: "#00695c"
+        }
+      };
+      setTimeout(function () {
+        const script = document.createElement("script");
+        script.src = `${window.wxOConfiguration.hostURL}/wxochat/wxoLoader.js?embed=true`;
+        script.addEventListener("load", function () {
+          wxoLoader.init();
+        });
+        document.head.appendChild(script);
+      }, 0);
+  </script>
+</body>
+</html>
