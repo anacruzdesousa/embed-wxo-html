@@ -47,14 +47,14 @@ layout: {
 <br>
 
 > [!NOTE] 
->Caso necessário volte ao [Step1 - ADK](docs/Step1-ADK.md)
+>Caso necessário volte ao [Step1 - ADK](Step1-ADK.md)
 
 <br><br>
 
 ### 2- Arquivo Dockerfile. 
 Para fazermos o deploy do HTML em uma aplicação serveless no IBM Code Engine é necessario ter um arquivo Dockerfile. 
 
-Veja o arquivo exemplo: [Dockerfile](html-wxo/Dockerfile)
+Veja o arquivo exemplo: [Dockerfile](../html-wxo/Dockerfile)
 > Neste momento o arquivo está pronto para ser utilizado, não precisa alterar nada, :smile:
 <br>
 
