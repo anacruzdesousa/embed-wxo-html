@@ -114,4 +114,4 @@ Pode copiar e colar em um navegador e vai poder acessar a sua página web com o 
 
 
 
-[Step 5- Acesse sua aplicação](docs/Step5-AcesseApp.md)
+[Step 5- Acesse sua aplicação](Step5-AcesseApp.md)
