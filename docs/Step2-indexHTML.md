@@ -60,5 +60,5 @@ Veja o arquivo exemplo: [Dockerfile](html-wxo/Dockerfile)
 
 ### 3- Mantenha o seu arquivo index.html e Dockerfile na mesma pasta. 
 
-Siga para o [Step 3- Container Registry](docs/Step3-ContainerRegistry.md)
+Siga para o [Step 3- Container Registry](Step3-ContainerRegistry.md)
 ---
