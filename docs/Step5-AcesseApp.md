@@ -10,7 +10,8 @@ Execute o seguinte comando:
  ibmcloud ce application get -n wxoembeded
 ```
 Você receberá como resposta várias informações da sua aplicação e poderá localizar entre elas o url para acesso da app. 
-<img width="896" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/beb26c46-b572-440a-89e6-fdc37031b09c">
+<img width="1792" height="484" alt="image" src="https://github.com/user-attachments/assets/8ca7f43f-a95f-4e72-a641-f0a9bd33a888" />
+
 
 
 ### 2 - Via Interface
@@ -21,7 +22,8 @@ Em IBM Cloud acesse:
 - Localize a sua aplicação
 - Clique no link **Open URL**
   Veja o exemplo: 
-  <img width="910" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/96f1c823-b997-4eef-b787-3e4ec345a38b">
+  <img width="1820" height="810" alt="image" src="https://github.com/user-attachments/assets/9f8da8a1-2d7f-4987-af46-f4e6983859dd" />
+
 
 
 
