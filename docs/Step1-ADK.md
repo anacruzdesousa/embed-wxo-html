@@ -97,6 +97,6 @@ crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/587c8924a8c2e0ab:6e92c36c-b
 
 
 
-Siga para o [Step 2- Criar arquivo index.html](docs/Step2-indexHTML.md)
+Siga para o [Step 2- Criar arquivo index.html](Step2-indexHTML.md)
 ---
 
