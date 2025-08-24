@@ -110,7 +110,8 @@ ibmcloud ce app create \
 Você receberá um endpoint se o comando anterior for executado corretamente. 
 
 Pode copiar e colar em um navegador e vai poder acessar a sua página web com o watsonx Orchestrate embedado.
-<img width="1030" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/1740b17e-3587-4c23-af81-9f9529b99506">
+<img width="2060" height="982" alt="image" src="https://github.com/user-attachments/assets/7d3f051a-35a0-4e5d-baab-89bcc688fa23" />
+
 
 
 
