@@ -6,7 +6,7 @@
 <br>
 
 > [!NOTE] 
->Veja a pasta [html-wxo](html-wxo)
+>Veja a pasta [html-wxo](../html-wxo)
 <br>
 
 ### 1-Faça o download dos arquivos da pasta html-wxo
@@ -18,7 +18,7 @@ Importante manter os dois arquivos em uma pasta separada de outros arquivos para
 
 
 ### 2-Edite o arquivo index.html 
-Veja o arquivo exemplo: [index.html](html-wxo/index.html)
+Veja o arquivo exemplo: [index.html](../html-wxo/index.html)
 
 Com base no código retornado no passo anterior e adicione as credenciais no arquivo. 
 
