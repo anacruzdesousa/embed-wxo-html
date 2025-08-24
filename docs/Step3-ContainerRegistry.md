@@ -7,7 +7,7 @@ Vamos executar a construção da imagem e o registro no IBM Container Registry.
 <br>
 
 > [!NOTE] 
->Este passo  precisa ser executado dentro da pasta específica onde se encontra o arquivo index.html e o Dockerfile. [Step2](docs/Step2-indexHTML.md)
+>Este passo  precisa ser executado dentro da pasta específica onde se encontra o arquivo index.html e o Dockerfile. [Step2](Step2-indexHTML.md)
 
 <br>  
 
@@ -89,5 +89,5 @@ Exemplo de como usar esse comando:
 >O Endereço **br.icr.io** é referente ao dominio do container registry para o Brasil, utilize a localização que melhor cabe ao seu ambiente. [Veja a documentação](#https://cloud.ibm.com/docs/Registry?topic=Registry-registry_overview#registry_regions_local)
 <br>  
 
-Siga para o [Step 4- Deploy com IBM Cloud Code Engine](docs/Step4-CodeEngine.md)
+Siga para o [Step 4- Deploy com IBM Cloud Code Engine](Step4-CodeEngine.md)
 
