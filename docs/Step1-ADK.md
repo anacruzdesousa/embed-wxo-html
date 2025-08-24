@@ -39,7 +39,8 @@ orchestrate env activate ambientedaana
 
 :warning: Como conseguir o endereço da instância? 
 Na página inicial do serviço watsonx Orchestrate em IBM Cloud. 
-<img width="1336" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/2b94d459-af88-4d07-a019-182976a28b93">
+<img width="2672" height="1348" alt="image" src="https://github.com/user-attachments/assets/81b41947-081e-476a-8348-e569985f855b" />
+
 
 <br>
 
@@ -59,7 +60,8 @@ orchestrate agents list
 
 <br>
 >Você verá uma lista assim: 
-<img width="823" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/11f31ef3-fa19-47e2-87ee-5c37a793414e">
+<img width="1646" height="566" alt="image" src="https://github.com/user-attachments/assets/0650753c-74ba-4289-b170-e5fbd646804f" />
+
 <br>
 
 :warning: Para utilizar o Watsonx Orchestrate embed é necessário fazer o deploy do seu agente.
@@ -79,7 +81,8 @@ orchestrate channels webchat embed --agent-name=agenteabc_5500DY
 <br><br>
 >Você será solicitado a enviar o *crn* da sua instância.
 
-<img width="823" alt="Veja aqui como obter o código crn" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/c8da731a-51ce-4de5-ad7b-2cd54d0d07cb">
+<img width="823" alt="Veja aqui como obter o código crn" src="https://github.com/user-attachments/assets/9c853244-a481-4247-9de9-b6bf69193025">
+
 <br>
 Exemplo de código crn:
 
@@ -90,7 +93,9 @@ crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/587c8924a8c2e0ab:6e92c36c-b
 
 > [!IMPORTANT]
 > Você receberá o script para ser usado no embed com as credenciais do seu ambiente watsonx Orchestrate:
-<img width="1062" alt="image" src="https://github.ibm.com/anapaula-cruz/embed-wxo-html/assets/311491/4585635c-1f9d-4369-b2b4-ce9edbc47099">
+<img width="2124" height="826" alt="image" src="https://github.com/user-attachments/assets/b322d9cd-f25b-4a42-9ccd-7617134792af" />
+
+
 
 Siga para o [Step 2- Criar arquivo index.html](docs/Step2-indexHTML.md)
 ---
